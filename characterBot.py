@@ -284,4 +284,4 @@ async def ping(ctx):
 	await ctx.send(f'Pong! {round(client.latency * 1000)}ms')
 
 
-client.run('NjQwNjUzMTA0OTA3NTUwNzMz.Xb9THA.pZsA8lzHdVMFbhujYnfju_Rubnw')
+client.run('ENTER YOUR STRING HERE')
